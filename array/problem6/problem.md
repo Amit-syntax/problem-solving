@@ -14,3 +14,19 @@ Output : arr[] = {1, -3, 5, -3, 6, 6, 7, -4, 9, 10}
 Input : arr[] = {-1, 3, -5, 6, 3, 6, -7, -4, -9, 10}
 Output : arr[] = {3, -1, 6, -5, 3, -7, 6, -4, 10, -9}
 ```
+
+
+solution
+```
+
+funciton main(){
+    - if odd count and even count is not equal:
+        - return false
+    
+    loop each element with index:
+        - check current value is +ve and index is odd:
+            - replce current index value with next index value
+        - check current value is -ve and index is even:
+            - replce current index value with next index value
+}
+```
