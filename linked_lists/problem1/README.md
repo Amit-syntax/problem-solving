@@ -2,7 +2,7 @@
 
 **Features Todo :**
 - [x] add node
-- [ ] remove node
-- [ ] print linked list
+- [x] print linked list
+- [x] remove node
 - [ ] get nth node value
-- [ ] replace 
+- [ ] replace
